@@ -14,7 +14,6 @@
         android:layout_marginStart="150dp"
         android:layout_marginTop="156dp"
         android:layout_marginEnd="150dp"
-        android:onClick="open"
         android:text="login"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
